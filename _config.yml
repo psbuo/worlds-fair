@@ -20,11 +20,11 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: World's Fair Exposition
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: a gallery of artifacts found for the Chicago World's Fair, and the Century of Progress
 # description appears in meta tags and other locations
-# this description might appear in search result lists, keep around 160 characters max
+# this description might appear in search result lists, keep around 160 characters max. KEEP IN QUOTATIONS!!!!
 description: "The theme of this collection is comparing the progress, vision of the future, and state of the world as seen through the Chicago world fairs of 1893 and 1933. With this collection we hope to showcase the dramatic social change between these time periods and shed light on the way the world has changed and will continue to change since then. Please use this collection as a resource to see the evolution of the scientific discoveries and biases of the world and understand how far humanity evolves in as short a time as 40 years."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
