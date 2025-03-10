@@ -10,7 +10,7 @@ credits: true
 ## About Us
 
 This site was made by Toby Hausler, Matthew Santoyo, Zach Wergeland, and Payton Bell in University of Oregon's DSCI350 class offered winter term. 
-Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
+
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 ## About CollectionBuilder-Sheets
 
