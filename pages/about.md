@@ -13,7 +13,7 @@ credits: true
 
 ## About Us
 
-This site was created by Toby Hausler, Matthew Santoyo, Zach Wergeland, and Payton Bell during University of Oregon's DSCI350 class Winter term. Matthew and Toby, our Collection Managers, focused on finding and taking care of data within the collection; Payton, our Github manager focused on managing and maintaining the Github Repository for this project, and Zach, our Project Manager, focused on managing the project and submitting appropriate forms and progress to Canvas. 
+This site was created by Toby Hausler, Matthew Santoyo, Zach Wergeland, and Payton Bell during University of Oregon's DSCI350 class Winter term. Matthew and Toby, our Collection Managers, focused on finding and taking care of data within the collection; Payton, our Github manager focused on managing and maintaining the Github Repository for this project, and Zach, our Project Manager, focused on managing the project and submitting appropriate forms and progress to Canvas. Github Repository can be found here: https://github.com/psbuo/worlds-fair
 
 ## About Our Project
 
