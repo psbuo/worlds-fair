@@ -13,7 +13,11 @@ credits: true
 
 ## About Us
 
-This site was made by Toby Hausler, Matthew Santoyo, Zach Wergeland, and Payton Bell in University of Oregon's DSCI350 class offered winter term. 
+This site was created by Toby Hausler, Matthew Santoyo, Zach Wergeland, and Payton Bell during University of Oregon's DSCI350 class Winter term. Matthew and Toby, our Collection Managers, focused on finding and taking care of data within the collection; Payton, our Github manager focused on managing and maintaining the Github Repository for this project, and Zach, our Project Manager, focused on managing the project and submitting appropriate forms and progress to Canvas. 
+
+The theme of this collection is comparing the progress, vision
+of the future, and state of the world as seen through the Chicago world fairs of 1893 and 1933. With this collection we will showcase the dramatic social change between these time periods and shed light on the way the world has changed and will continue to change since then. This collection is a resource for seeing the evolution of the scientific discoveries and biases of the world and understanding how far humanity evolves in as
+short a time as 40 years.
 
 ## About CollectionBuilder-Sheets
 
