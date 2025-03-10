@@ -11,6 +11,10 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
+## About Us
+
+This site was made by Toby Hausler, Matthew Santoyo, Zach Wergeland, and Payton Bell in University of Oregon's DSCI350 class offered winter term. 
+
 ## About CollectionBuilder-Sheets
 
 This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
@@ -27,9 +31,7 @@ This enables active collaboration to prototype collections with minimal set up.
 </button>
 {:.text-center}
 
-## About Us
 
-This site was made by Toby Hausler, Matthew Santoyo, Zach Wergeland, and Payton Bell in University of Oregon's DSCI350 class offered winter term. 
 
 ## Create your own Metadata
 
