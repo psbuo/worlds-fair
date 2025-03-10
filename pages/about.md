@@ -9,15 +9,30 @@ credits: true
 ---
 
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+{% include feature/jumbotron.html objectid="/objects/chi_col_WF_painting.jpeg" %}
 
 ## About Us
 
 This site was created by Toby Hausler, Matthew Santoyo, Zach Wergeland, and Payton Bell during University of Oregon's DSCI350 class Winter term. Matthew and Toby, our Collection Managers, focused on finding and taking care of data within the collection; Payton, our Github manager focused on managing and maintaining the Github Repository for this project, and Zach, our Project Manager, focused on managing the project and submitting appropriate forms and progress to Canvas. 
 
+## About Our Project
+
 The theme of this collection is comparing the progress, vision
-of the future, and state of the world as seen through the Chicago world fairs of 1893 and 1933. With this collection we will showcase the dramatic social change between these time periods and shed light on the way the world has changed and will continue to change since then. This collection is a resource for seeing the evolution of the scientific discoveries and biases of the world and understanding how far humanity evolves in as
-short a time as 40 years.
+of the future, and state of the world as seen through the Chicago world fairs of 1893 and 1933. With this collection we will showcase the dramatic social change between these time periods and shed light on the way the world has changed and will continue to change since then. This collection is a resource for seeing the evolution of the scientific discoveries and biases of the world and understanding how far humanity evolves in as short a time as 40 years.
+
+This collection contains findings of artifacts and exhibits presented at the world fair, as well as journalistic articles illustrating the advertising and cultural impact of these fairs. These contents come from digital libraries and newspaper archives meant to exhibit the history of both the world and, in particular, Chicago. This collection should act as its own world fair, to showcase the might of modern day technology we take for granted.
+
+## Course Description
+
+In this class, we’ll learn about the theory and practice of how people who work in galleries, libraries, archives, and museums manage data. We’ll look at & work with the different forms this data can take, such as images, video, sound, text, and maps, and examine the processes by which they are made available to interested humanities scholars. 
+
+## About the Course
+
+Human Research Data Management (DSCI 350M/350M) is a course offered at the University of Oregon through the Digital Humanities minor. Lead by Franny Gaede (she/her) with course support from Associate Librarian Rayne Vieger, and Assistant Librarian Erin Winter.
+
+## Credit and Thank You
+
+meow meow emow
 
 ## About CollectionBuilder-Sheets
 
