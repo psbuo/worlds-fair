@@ -9,7 +9,7 @@ credits: true
 ---
 
 
-{% include feature/jumbotron.html objectid="/objects/chi_col_electric.jpeg" %}
+{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
 ## About CollectionBuilder-Sheets
 
